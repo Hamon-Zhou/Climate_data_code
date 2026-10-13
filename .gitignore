@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.idea/
+.vscode/
+workspace/
+LocalConfig.py
+*.nc
+*.tif
+*.tiff
+*.aux.xml
+*.ovr
+*.log
